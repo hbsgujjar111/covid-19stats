@@ -14,7 +14,8 @@ The splash screen contains the logo of app with welcome text and loader.
 
 
 
-![Screenshot_1626169941](https://user-images.githubusercontent.com/68778605/125431740-3c4873fe-93ff-4f86-bf18-7fd3dd9f77e0.png)
+![Screenshot_1626261475](https://user-images.githubusercontent.com/68778605/125615292-522cdc6c-c619-43fc-9bee-958e54fb7853.png)
+
 
 
 
@@ -25,7 +26,7 @@ The home screen have an appbar, a container that global stats and Pakistan stats
 
 
 
-![Screenshot_1626169948](https://user-images.githubusercontent.com/68778605/125431799-df7dcbb6-6319-4b1a-8fd7-7e5fbc32c565.png)
+![Screenshot_1626261087](https://user-images.githubusercontent.com/68778605/125615312-39b4d6fe-4633-4b69-8d0c-835ae48a2f1d.png)
 
 
 
@@ -35,7 +36,13 @@ The search screen contains an appbar, a text field to search stats of specific c
 
 
 
-![Screenshot_1626169970](https://user-images.githubusercontent.com/68778605/125432049-e74cc2f2-e8c3-4641-988a-2d2f360b9627.png)
+
+![Screenshot_1626261195](https://user-images.githubusercontent.com/68778605/125615355-1e4b67d7-b25a-4c49-a1a0-2e1a0520c686.png)
+
+
+
+![Screenshot_1626261216](https://user-images.githubusercontent.com/68778605/125615370-6cfaf674-7534-4446-ac19-f15dbd973b17.png)
+
 
 
 
